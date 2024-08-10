@@ -1,7 +1,8 @@
 # ToDoList Version 2
 
 After cloning type in npm install.
-Run mongodb server and you are good to go.
+Just run the app.js and you are good to go.
+You can connect with mongodb compass.
 
 Includes js, ejs, node, express and mongodb.
 
